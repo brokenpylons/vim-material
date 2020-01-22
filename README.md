@@ -1,6 +1,6 @@
 # Material
 
-Personal fork of  (hzchirs/vim-material)[https://github.com/hzchirs/vim-material]
+Personal fork of [hzchirs/vim-material](https://github.com/hzchirs/vim-material).
 
 ## Change log
 
